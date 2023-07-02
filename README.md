@@ -51,6 +51,8 @@
        <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
        <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
        <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+       <img align="center" alt="Oracle" height="40" width="40" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4"> 
        <img align="center" alt="GITHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
        <img align="center" alt="Flutter" height="40" width="40" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"> 
+       
 </div>
