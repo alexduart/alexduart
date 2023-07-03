@@ -53,6 +53,8 @@
        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+       <img align="center" alt="JQuery" height="30" width="40" src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png">
+       <img align="center" alt="Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
        <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
        <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
        <img align="center" alt="Oracle" height="40" width="40" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4"> 
