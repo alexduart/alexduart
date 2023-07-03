@@ -18,8 +18,7 @@
 ##
 <div align="center">
     <h3>Sobre Mim 🙋🏻‍♂️</h3>
-    <p align="justify">👨🏻‍🎓 Graduado em Marketing</p>
-    <p align="justify">📚 Desenvolvedor Web e Mobile a 17 anos</p>
+    <p align="justify">Desenvolvedor web versátil e experiente, com habilidades sólidas em HTML, CSS, JavaScript e PHP. Com 17 anos de experiência, sou especializado em criar soluções web completas e escaláveis. Minha expertise abrange desde o desenvolvimento de interfaces intuitivas e responsivas até a construção de sistemas robustos com integrações de API e bancos de dados MySQL e Oracle. Recentemente, expandi meus horizontes para o desenvolvimento de aplicativos móveis, utilizando a poderosa framework Flutter para criar experiências incríveis no Android e iOS. Com um olhar atento aos detalhes e paixão pela excelência, estou sempre buscando superar expectativas e entregar resultados de alto nível. Explore meu repositório para conferir projetos inovadores e descobrir como posso agregar valor à sua equipe ou projeto.</p>
 </div> 
  
 
