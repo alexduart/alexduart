@@ -17,7 +17,7 @@
 
 ##
 <div align="center">
-    <h3>Sobre Mim 🙋🏻‍♂️</h3>
+    <h3>Sobre Mim 📢</h3>
     <p align="justify">Desenvolvedor web versátil e experiente, com habilidades sólidas em HTML, CSS, JavaScript e PHP. 
         Com 17 anos de experiência, sou especializado em criar soluções web completas e escaláveis. Minha expertise abrange 
         desde o desenvolvimento de interfaces intuitivas e responsivas até a construção de sistemas robustos com integrações de API e 
@@ -30,7 +30,7 @@
 ##
 
 <div align="center">
- <h3> Contato: </h3>
+ <h3> Contato🤙🏻</h3>
     <a target="_blank" href="https://www.linkedin.com/in/alexdu-rt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
     <a target="_blank" href="mailto:alexduart@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div> 
@@ -48,7 +48,7 @@
 </div> 
 
 <div align="center">
-      <h3>Languages and Technologies🗣️</h3>
+      <h3>Tecnologias🗣️</h3>
       <div style="display: inline_block">
        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
