@@ -40,7 +40,7 @@
 ##
 
 <div align="center">
-    <h3> Skill's </h3>
+    <h3> Skill's 👨‍💻</h3>
      <div align="center">
        <a href="https://github.com/alexduart"> <br>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexduart&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
